@@ -135,4 +135,5 @@ public class VoteForm {
         resetForm();
         this.submitButton.setEnabled(true);
     }
+    
 }
